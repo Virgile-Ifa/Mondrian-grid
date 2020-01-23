@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+/*--------------*/
+/*--KEYFRAMES--*/
+/*-------------*/
+
 @keyframes mondy{
     from {left:-600px}
     to{left: -200px;}
@@ -12,6 +16,9 @@
     from {top:-490px}
     to{top: -50px;}
 }
+
+
+
  #mondy{
      
     
@@ -52,7 +59,7 @@
 #grid-container
 {
     margin: 80px auto;
-    height: 55vh;
+    height: 506px;
     width: 800px;
     display: grid;
     grid-template-areas:
